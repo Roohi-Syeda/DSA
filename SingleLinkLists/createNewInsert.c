@@ -46,6 +46,8 @@ int main()
   insertatend(&head,20);
   insertatend(&head,30);
   insertatend(&head,40);
+  insertatend(&head,50);
+  insertatend(&head,60);
   
   
   print(head);
